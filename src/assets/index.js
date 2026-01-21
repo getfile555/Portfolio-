@@ -37,7 +37,7 @@ import inkSync from "./ink.png";
 import tracker from "./tracker.png";
 import Portfolio from "./portfolio.png";
 import Toolkit from "./toolkit.png";
-import Vechile from ",/vechile.png";
+import Vechile from "./vechile.png";
 import Birthday from "./birthday.png";
 import socialSphere from "./socialSphere.png";
 
